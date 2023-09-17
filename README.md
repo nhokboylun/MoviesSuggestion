@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/nhokboylun/web102_Tran-GameShop/blob/main/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nhokboylun/MoviesSuggestion/blob/main/project1.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
